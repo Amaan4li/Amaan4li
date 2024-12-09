@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaan4li
 - 👀 I’m interested in DATA science.
-- 🌱 I’m currently learning Data science.
+- 🌱 I’m currently learning Data structure and algorithm.
 - 💞️ I’m looking to collaborate on Open-source projects.
 - 📫 How to reach me www.linkedin.com/in/amaan-ali-ds
 - 😄 Pronouns: he/him
