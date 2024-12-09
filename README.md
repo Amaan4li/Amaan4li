@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA science.
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on Open-source projects.
-- 📫 How to reach me www.linkedin.com/in/amaan-ali-7297a3230
+- 📫 How to reach me www.linkedin.com/in/amaan-ali-ds
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Coding
 
