@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amaan Ali  ## 🔗 GitHub: @Amaan4li
+# 👋 Hi, I'm Amaan Ali,  🔗 @Amaan4li
 
 
 
