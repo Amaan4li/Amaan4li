@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Amaan Ali  
-🔗 GitHub: @Amaan4li
+# 👋 Hi, I'm Amaan Ali  🔗 GitHub: @Amaan4li
 
 
 🎯 **Aspiring Data Scientist | Data Science & DSA Learner | Open-Source Enthusiast**
