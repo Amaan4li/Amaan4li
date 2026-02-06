@@ -29,6 +29,7 @@
 A data-driven app to track and analyze personal expenses using Python, Streamlit & FastAPI.                                                                                 
 
 🔗Live App: https://tracker-fpseqsczkkgyyljcfwegvl.streamlit.app/
+
 👉 More projects coming soon — stay tuned!
 
 ---
